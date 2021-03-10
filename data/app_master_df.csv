@@ -1,0 +1,469 @@
+,Location,percent_uninsured,detail,category
+2,United States,7.5,White,Race
+3,United States,11.4,Black,Race
+2042,Alabama,10.2,White,Race
+2043,Alabama,13.3,Black,Race
+2046,Alaska,10.7,White,Race
+2047,Alaska,16.400000000000002,Black,Race
+2050,Arizona,8.200000000000001,White,Race
+2051,Arizona,11.5,Black,Race
+2054,Arkansas,7.8,White,Race
+2055,Arkansas,9.9,Black,Race
+2058,California,5.0,White,Race
+2059,California,6.800000000000001,Black,Race
+2062,Colorado,6.3,White,Race
+2063,Colorado,8.9,Black,Race
+2066,Connecticut,3.9,White,Race
+2067,Connecticut,7.000000000000001,Black,Race
+2070,Delaware,5.2,White,Race
+2071,Delaware,6.6000000000000005,Black,Race
+2074,District of Columbia,1.7999999999999998,White,Race
+2075,District of Columbia,4.0,Black,Race
+2078,Florida,13.0,White,Race
+2079,Florida,16.5,Black,Race
+2082,Georgia,12.8,White,Race
+2083,Georgia,15.6,Black,Race
+2086,Hawaii,3.5000000000000004,White,Race
+2087,Hawaii,5.4,Black,Race
+2090,Idaho,11.1,White,Race
+2091,Idaho,14.899999999999999,Black,Race
+2094,Illinois,5.3,White,Race
+2095,Illinois,9.0,Black,Race
+2098,Indiana,8.3,White,Race
+2099,Indiana,11.5,Black,Race
+2102,Iowa,4.7,White,Race
+2103,Iowa,8.9,Black,Race
+2106,Kansas,7.9,White,Race
+2107,Kansas,12.2,Black,Race
+2110,Kentucky,5.8999999999999995,White,Race
+2111,Kentucky,7.6,Black,Race
+2114,Louisiana,7.6,White,Race
+2115,Louisiana,9.4,Black,Race
+2118,Maine,9.8,White,Race
+2119,Maine,14.2,Black,Race
+2122,Maryland,3.8,White,Race
+2123,Maryland,7.000000000000001,Black,Race
+2126,Massachusetts,2.6,White,Race
+2127,Massachusetts,4.1000000000000005,Black,Race
+2130,Michigan,5.800000000000001,White,Race
+2131,Michigan,7.3,Black,Race
+2134,Minnesota,3.9,White,Race
+2135,Minnesota,6.7,Black,Race
+2138,Mississippi,12.4,White,Race
+2139,Mississippi,16.0,Black,Race
+2142,Missouri,10.299999999999999,White,Race
+2143,Missouri,13.700000000000001,Black,Race
+2146,Montana,9.2,White,Race
+2147,Montana,13.4,Black,Race
+2150,Nebraska,7.199999999999999,White,Race
+2151,Nebraska,12.1,Black,Race
+2154,Nevada,8.5,White,Race
+2155,Nevada,11.3,Black,Race
+2158,New Hampshire,6.5,White,Race
+2159,New Hampshire,9.4,Black,Race
+2162,New Jersey,5.0,White,Race
+2163,New Jersey,9.2,Black,Race
+2166,New Mexico,6.5,White,Race
+2167,New Mexico,10.6,Black,Race
+2170,New York,4.1000000000000005,White,Race
+2171,New York,6.5,Black,Race
+2174,North Carolina,10.0,White,Race
+2175,North Carolina,12.6,Black,Race
+2178,North Dakota,6.800000000000001,White,Race
+2179,North Dakota,12.3,Black,Race
+2182,Ohio,6.9,White,Race
+2183,Ohio,9.4,Black,Race
+2186,Oklahoma,13.0,White,Race
+2187,Oklahoma,17.299999999999997,Black,Race
+2190,Oregon,6.7,White,Race
+2191,Oregon,9.3,Black,Race
+2194,Pennsylvania,5.800000000000001,White,Race
+2195,Pennsylvania,7.6,Black,Race
+2198,Rhode Island,3.4000000000000004,White,Race
+2199,Rhode Island,5.0,Black,Race
+2202,South Carolina,10.6,White,Race
+2203,South Carolina,13.8,Black,Race
+2206,South Dakota,8.7,White,Race
+2207,South Dakota,15.6,Black,Race
+2210,Tennessee,10.2,White,Race
+2211,Tennessee,13.5,Black,Race
+2214,Texas,12.5,White,Race
+2215,Texas,16.7,Black,Race
+2218,Utah,7.3999999999999995,White,Race
+2219,Utah,13.700000000000001,Black,Race
+2222,Vermont,4.6,White,Race
+2223,Vermont,6.6000000000000005,Black,Race
+2226,Virginia,7.3999999999999995,White,Race
+2227,Virginia,11.799999999999999,Black,Race
+2230,Washington,5.5,White,Race
+2231,Washington,8.6,Black,Race
+2234,West Virginia,7.5,White,Race
+2235,West Virginia,10.2,Black,Race
+2238,Wisconsin,5.2,White,Race
+2239,Wisconsin,8.3,Black,Race
+2242,Wyoming,10.8,White,Race
+2243,Wyoming,16.0,Black,Race
+0,United States,17.299999999999997,Under FPL,Income
+1,Alabama,23.1,Under FPL,Income
+2,Alaska,21.6,Under FPL,Income
+3,Arizona,17.599999999999998,Under FPL,Income
+4,Arkansas,14.399999999999999,Under FPL,Income
+5,California,11.899999999999999,Under FPL,Income
+6,Colorado,12.9,Under FPL,Income
+7,Connecticut,10.100000000000001,Under FPL,Income
+8,Delaware,11.4,Under FPL,Income
+9,District of Columbia,5.4,Under FPL,Income
+10,Florida,24.7,Under FPL,Income
+11,Georgia,27.900000000000002,Under FPL,Income
+12,Hawaii,9.700000000000001,Under FPL,Income
+13,Idaho,17.599999999999998,Under FPL,Income
+14,Illinois,13.200000000000001,Under FPL,Income
+15,Indiana,15.299999999999999,Under FPL,Income
+16,Iowa,11.3,Under FPL,Income
+17,Kansas,21.7,Under FPL,Income
+18,Kentucky,8.9,Under FPL,Income
+19,Louisiana,12.2,Under FPL,Income
+20,Maine,17.599999999999998,Under FPL,Income
+21,Maryland,13.0,Under FPL,Income
+22,Massachusetts,5.4,Under FPL,Income
+23,Michigan,9.4,Under FPL,Income
+24,Minnesota,11.0,Under FPL,Income
+25,Mississippi,23.3,Under FPL,Income
+26,Missouri,20.9,Under FPL,Income
+27,Montana,13.8,Under FPL,Income
+28,Nebraska,23.0,Under FPL,Income
+29,Nevada,19.5,Under FPL,Income
+30,New Hampshire,9.9,Under FPL,Income
+31,New Jersey,16.900000000000002,Under FPL,Income
+32,New Mexico,13.4,Under FPL,Income
+33,New York,8.5,Under FPL,Income
+34,North Carolina,22.6,Under FPL,Income
+35,North Dakota,19.6,Under FPL,Income
+36,Ohio,12.0,Under FPL,Income
+37,Oklahoma,26.0,Under FPL,Income
+38,Oregon,12.9,Under FPL,Income
+39,Pennsylvania,10.5,Under FPL,Income
+40,Rhode Island,7.199999999999999,Under FPL,Income
+41,South Carolina,20.200000000000003,Under FPL,Income
+42,South Dakota,23.599999999999998,Under FPL,Income
+43,Tennessee,21.3,Under FPL,Income
+44,Texas,32.2,Under FPL,Income
+45,Utah,20.5,Under FPL,Income
+46,Vermont,6.800000000000001,Under FPL,Income
+47,Virginia,20.9,Under FPL,Income
+48,Washington,12.3,Under FPL,Income
+49,West Virginia,11.4,Under FPL,Income
+50,Wisconsin,11.200000000000001,Under FPL,Income
+51,Wyoming,24.6,Under FPL,Income
+52,United States,17.299999999999997,1-2x FPL,Income
+53,Alabama,18.6,1-2x FPL,Income
+54,Alaska,23.5,1-2x FPL,Income
+55,Arizona,19.400000000000002,1-2x FPL,Income
+56,Arkansas,13.4,1-2x FPL,Income
+57,California,13.100000000000001,1-2x FPL,Income
+58,Colorado,16.400000000000002,1-2x FPL,Income
+59,Connecticut,12.9,1-2x FPL,Income
+60,Delaware,7.9,1-2x FPL,Income
+61,District of Columbia,8.4,1-2x FPL,Income
+62,Florida,23.3,1-2x FPL,Income
+63,Georgia,25.4,1-2x FPL,Income
+64,Hawaii,7.000000000000001,1-2x FPL,Income
+65,Idaho,19.400000000000002,1-2x FPL,Income
+66,Illinois,14.899999999999999,1-2x FPL,Income
+67,Indiana,16.6,1-2x FPL,Income
+68,Iowa,9.6,1-2x FPL,Income
+69,Kansas,18.2,1-2x FPL,Income
+70,Kentucky,10.7,1-2x FPL,Income
+71,Louisiana,12.6,1-2x FPL,Income
+72,Maine,17.599999999999998,1-2x FPL,Income
+73,Maryland,13.900000000000002,1-2x FPL,Income
+74,Massachusetts,6.3,1-2x FPL,Income
+75,Michigan,10.4,1-2x FPL,Income
+76,Minnesota,8.7,1-2x FPL,Income
+77,Mississippi,21.3,1-2x FPL,Income
+78,Missouri,18.0,1-2x FPL,Income
+79,Montana,16.0,1-2x FPL,Income
+80,Nebraska,16.7,1-2x FPL,Income
+81,Nevada,19.1,1-2x FPL,Income
+82,New Hampshire,10.9,1-2x FPL,Income
+83,New Jersey,19.2,1-2x FPL,Income
+84,New Mexico,15.1,1-2x FPL,Income
+85,New York,10.0,1-2x FPL,Income
+86,North Carolina,20.5,1-2x FPL,Income
+87,North Dakota,17.599999999999998,1-2x FPL,Income
+88,Ohio,13.200000000000001,1-2x FPL,Income
+89,Oklahoma,22.5,1-2x FPL,Income
+90,Oregon,13.900000000000002,1-2x FPL,Income
+91,Pennsylvania,12.5,1-2x FPL,Income
+92,Rhode Island,7.3999999999999995,1-2x FPL,Income
+93,South Carolina,19.6,1-2x FPL,Income
+94,South Dakota,20.7,1-2x FPL,Income
+95,Tennessee,17.599999999999998,1-2x FPL,Income
+96,Texas,30.5,1-2x FPL,Income
+97,Utah,17.7,1-2x FPL,Income
+98,Vermont,7.000000000000001,1-2x FPL,Income
+99,Virginia,20.9,1-2x FPL,Income
+100,Washington,12.0,1-2x FPL,Income
+101,West Virginia,8.799999999999999,1-2x FPL,Income
+102,Wisconsin,11.4,1-2x FPL,Income
+103,Wyoming,20.200000000000003,1-2x FPL,Income
+104,United States,11.5,2-4x FPL,Income
+105,Alabama,10.2,2-4x FPL,Income
+106,Alaska,15.2,2-4x FPL,Income
+107,Arizona,13.8,2-4x FPL,Income
+108,Arkansas,9.3,2-4x FPL,Income
+109,California,10.0,2-4x FPL,Income
+110,Colorado,10.9,2-4x FPL,Income
+111,Connecticut,8.5,2-4x FPL,Income
+112,Delaware,9.0,2-4x FPL,Income
+113,District of Columbia,4.8,2-4x FPL,Income
+114,Florida,17.4,2-4x FPL,Income
+115,Georgia,15.5,2-4x FPL,Income
+116,Hawaii,5.1,2-4x FPL,Income
+117,Idaho,14.399999999999999,2-4x FPL,Income
+118,Illinois,9.8,2-4x FPL,Income
+119,Indiana,10.0,2-4x FPL,Income
+120,Iowa,6.7,2-4x FPL,Income
+121,Kansas,9.1,2-4x FPL,Income
+122,Kentucky,6.800000000000001,2-4x FPL,Income
+123,Louisiana,9.3,2-4x FPL,Income
+124,Maine,9.5,2-4x FPL,Income
+125,Maryland,9.8,2-4x FPL,Income
+126,Massachusetts,4.5,2-4x FPL,Income
+127,Michigan,7.3,2-4x FPL,Income
+128,Minnesota,6.3,2-4x FPL,Income
+129,Mississippi,10.9,2-4x FPL,Income
+130,Missouri,11.0,2-4x FPL,Income
+131,Montana,9.9,2-4x FPL,Income
+132,Nebraska,8.6,2-4x FPL,Income
+133,Nevada,13.700000000000001,2-4x FPL,Income
+134,New Hampshire,9.3,2-4x FPL,Income
+135,New Jersey,11.799999999999999,2-4x FPL,Income
+136,New Mexico,12.2,2-4x FPL,Income
+137,New York,7.9,2-4x FPL,Income
+138,North Carolina,12.9,2-4x FPL,Income
+139,North Dakota,9.4,2-4x FPL,Income
+140,Ohio,8.6,2-4x FPL,Income
+141,Oklahoma,15.8,2-4x FPL,Income
+142,Oregon,10.2,2-4x FPL,Income
+143,Pennsylvania,7.8,2-4x FPL,Income
+144,Rhode Island,6.7,2-4x FPL,Income
+145,South Carolina,12.0,2-4x FPL,Income
+146,South Dakota,8.6,2-4x FPL,Income
+147,Tennessee,11.3,2-4x FPL,Income
+148,Texas,21.2,2-4x FPL,Income
+149,Utah,9.0,2-4x FPL,Income
+150,Vermont,6.2,2-4x FPL,Income
+151,Virginia,11.600000000000001,2-4x FPL,Income
+152,Washington,10.299999999999999,2-4x FPL,Income
+153,West Virginia,8.3,2-4x FPL,Income
+154,Wisconsin,7.3999999999999995,2-4x FPL,Income
+155,Wyoming,12.7,2-4x FPL,Income
+156,United States,4.3,>4x FPL,Income
+157,Alabama,4.2,>4x FPL,Income
+158,Alaska,7.199999999999999,>4x FPL,Income
+159,Arizona,5.7,>4x FPL,Income
+160,Arkansas,4.7,>4x FPL,Income
+161,California,3.8,>4x FPL,Income
+162,Colorado,4.0,>4x FPL,Income
+163,Connecticut,3.0,>4x FPL,Income
+164,Delaware,3.9,>4x FPL,Income
+165,District of Columbia,1.6,>4x FPL,Income
+166,Florida,7.6,>4x FPL,Income
+167,Georgia,6.4,>4x FPL,Income
+168,Hawaii,2.6,>4x FPL,Income
+169,Idaho,5.7,>4x FPL,Income
+170,Illinois,3.2,>4x FPL,Income
+171,Indiana,4.3,>4x FPL,Income
+172,Iowa,2.1,>4x FPL,Income
+173,Kansas,3.5000000000000004,>4x FPL,Income
+174,Kentucky,2.7,>4x FPL,Income
+175,Louisiana,5.2,>4x FPL,Income
+176,Maine,4.8,>4x FPL,Income
+177,Maryland,3.0,>4x FPL,Income
+178,Massachusetts,1.6,>4x FPL,Income
+179,Michigan,2.7,>4x FPL,Income
+180,Minnesota,2.1,>4x FPL,Income
+181,Mississippi,6.4,>4x FPL,Income
+182,Missouri,4.1000000000000005,>4x FPL,Income
+183,Montana,5.1,>4x FPL,Income
+184,Nebraska,3.8,>4x FPL,Income
+185,Nevada,6.9,>4x FPL,Income
+186,New Hampshire,3.2,>4x FPL,Income
+187,New Jersey,3.5000000000000004,>4x FPL,Income
+188,New Mexico,5.0,>4x FPL,Income
+189,New York,3.2,>4x FPL,Income
+190,North Carolina,4.5,>4x FPL,Income
+191,North Dakota,3.5999999999999996,>4x FPL,Income
+192,Ohio,3.0,>4x FPL,Income
+193,Oklahoma,6.6000000000000005,>4x FPL,Income
+194,Oregon,3.9,>4x FPL,Income
+195,Pennsylvania,3.0,>4x FPL,Income
+196,Rhode Island,2.1999999999999997,>4x FPL,Income
+197,South Carolina,5.2,>4x FPL,Income
+198,South Dakota,3.5000000000000004,>4x FPL,Income
+199,Tennessee,4.7,>4x FPL,Income
+200,Texas,7.8,>4x FPL,Income
+201,Utah,4.9,>4x FPL,Income
+202,Vermont,2.5,>4x FPL,Income
+203,Virginia,3.6999999999999997,>4x FPL,Income
+204,Washington,3.5000000000000004,>4x FPL,Income
+205,West Virginia,3.5999999999999996,>4x FPL,Income
+206,Wisconsin,3.0,>4x FPL,Income
+207,Wyoming,6.4,>4x FPL,Income
+0,United States,12.5,Adults 19-64,Age
+1,Alabama,15.7,Adults 19-64,Age
+2,Alaska,15.9,Adults 19-64,Age
+3,Arizona,14.7,Adults 19-64,Age
+4,Arkansas,12.3,Adults 19-64,Age
+5,California,10.2,Adults 19-64,Age
+6,Colorado,10.299999999999999,Adults 19-64,Age
+7,Connecticut,7.6,Adults 19-64,Age
+8,Delaware,8.1,Adults 19-64,Age
+9,District of Columbia,4.0,Adults 19-64,Age
+10,Florida,19.3,Adults 19-64,Age
+11,Georgia,19.2,Adults 19-64,Age
+12,Hawaii,5.2,Adults 19-64,Age
+13,Idaho,16.400000000000002,Adults 19-64,Age
+14,Illinois,10.2,Adults 19-64,Age
+15,Indiana,11.1,Adults 19-64,Age
+16,Iowa,7.1,Adults 19-64,Age
+17,Kansas,12.4,Adults 19-64,Age
+18,Kentucky,7.9,Adults 19-64,Age
+19,Louisiana,11.799999999999999,Adults 19-64,Age
+20,Maine,11.4,Adults 19-64,Age
+21,Maryland,8.4,Adults 19-64,Age
+22,Massachusetts,3.9,Adults 19-64,Age
+23,Michigan,7.8,Adults 19-64,Age
+24,Minnesota,5.7,Adults 19-64,Age
+25,Mississippi,18.7,Adults 19-64,Age
+26,Missouri,13.600000000000001,Adults 19-64,Age
+27,Montana,11.899999999999999,Adults 19-64,Age
+28,Nebraska,11.700000000000001,Adults 19-64,Age
+29,Nevada,15.2,Adults 19-64,Age
+30,New Hampshire,7.7,Adults 19-64,Age
+31,New Jersey,10.5,Adults 19-64,Age
+32,New Mexico,13.600000000000001,Adults 19-64,Age
+33,New York,7.6,Adults 19-64,Age
+34,North Carolina,15.9,Adults 19-64,Age
+35,North Dakota,10.0,Adults 19-64,Age
+36,Ohio,8.799999999999999,Adults 19-64,Age
+37,Oklahoma,19.7,Adults 19-64,Age
+38,Oregon,10.5,Adults 19-64,Age
+39,Pennsylvania,7.6,Adults 19-64,Age
+40,Rhode Island,5.7,Adults 19-64,Age
+41,South Carolina,15.9,Adults 19-64,Age
+42,South Dakota,13.5,Adults 19-64,Age
+43,Tennessee,14.899999999999999,Adults 19-64,Age
+44,Texas,24.0,Adults 19-64,Age
+45,Utah,11.600000000000001,Adults 19-64,Age
+46,Vermont,5.5,Adults 19-64,Age
+47,Virginia,12.3,Adults 19-64,Age
+48,Washington,9.5,Adults 19-64,Age
+49,West Virginia,9.4,Adults 19-64,Age
+50,Wisconsin,7.7,Adults 19-64,Age
+51,Wyoming,14.899999999999999,Adults 19-64,Age
+52,United States,5.1,Children 0-18,Age
+53,Alabama,3.5000000000000004,Children 0-18,Age
+54,Alaska,8.200000000000001,Children 0-18,Age
+55,Arizona,8.200000000000001,Children 0-18,Age
+56,Arkansas,4.1000000000000005,Children 0-18,Age
+57,California,3.1,Children 0-18,Age
+58,Colorado,4.8,Children 0-18,Age
+59,Connecticut,2.7,Children 0-18,Age
+60,Delaware,3.9,Children 0-18,Age
+61,District of Columbia,,Children 0-18,Age
+62,Florida,7.8,Children 0-18,Age
+63,Georgia,8.0,Children 0-18,Age
+64,Hawaii,3.0,Children 0-18,Age
+65,Idaho,6.5,Children 0-18,Age
+66,Illinois,3.2,Children 0-18,Age
+67,Indiana,7.000000000000001,Children 0-18,Age
+68,Iowa,3.2,Children 0-18,Age
+69,Kansas,5.3,Children 0-18,Age
+70,Kentucky,3.4000000000000004,Children 0-18,Age
+71,Louisiana,3.3000000000000003,Children 0-18,Age
+72,Maine,5.1,Children 0-18,Age
+73,Maryland,3.1,Children 0-18,Age
+74,Massachusetts,1.0999999999999999,Children 0-18,Age
+75,Michigan,2.9000000000000004,Children 0-18,Age
+76,Minnesota,3.5999999999999996,Children 0-18,Age
+77,Mississippi,5.0,Children 0-18,Age
+78,Missouri,5.1,Children 0-18,Age
+79,Montana,5.2,Children 0-18,Age
+80,Nebraska,6.1,Children 0-18,Age
+81,Nevada,8.200000000000001,Children 0-18,Age
+82,New Hampshire,2.0,Children 0-18,Age
+83,New Jersey,3.6999999999999997,Children 0-18,Age
+84,New Mexico,5.6000000000000005,Children 0-18,Age
+85,New York,2.1999999999999997,Children 0-18,Age
+86,North Carolina,5.2,Children 0-18,Age
+87,North Dakota,6.4,Children 0-18,Age
+88,Ohio,4.9,Children 0-18,Age
+89,Oklahoma,7.8,Children 0-18,Age
+90,Oregon,3.5999999999999996,Children 0-18,Age
+91,Pennsylvania,4.3999999999999995,Children 0-18,Age
+92,Rhode Island,2.0,Children 0-18,Age
+93,South Carolina,4.7,Children 0-18,Age
+94,South Dakota,5.6000000000000005,Children 0-18,Age
+95,Tennessee,5.0,Children 0-18,Age
+96,Texas,11.1,Children 0-18,Age
+97,Utah,7.000000000000001,Children 0-18,Age
+98,Vermont,,Children 0-18,Age
+99,Virginia,4.6,Children 0-18,Age
+100,Washington,2.7,Children 0-18,Age
+101,West Virginia,2.8000000000000003,Children 0-18,Age
+102,Wisconsin,3.8,Children 0-18,Age
+103,Wyoming,7.5,Children 0-18,Age
+104,United States,10.4,Total,Overall
+105,Alabama,12.2,Total,Overall
+106,Alaska,13.5,Total,Overall
+107,Arizona,12.7,Total,Overall
+108,Arkansas,9.9,Total,Overall
+109,California,8.200000000000001,Total,Overall
+110,Colorado,8.799999999999999,Total,Overall
+111,Connecticut,6.3,Total,Overall
+112,Delaware,6.9,Total,Overall
+113,District of Columbia,3.5000000000000004,Total,Overall
+114,Florida,16.3,Total,Overall
+115,Georgia,15.9,Total,Overall
+116,Hawaii,4.6,Total,Overall
+117,Idaho,13.200000000000001,Total,Overall
+118,Illinois,8.200000000000001,Total,Overall
+119,Indiana,9.9,Total,Overall
+120,Iowa,5.8999999999999995,Total,Overall
+121,Kansas,10.2,Total,Overall
+122,Kentucky,6.6000000000000005,Total,Overall
+123,Louisiana,9.3,Total,Overall
+124,Maine,9.9,Total,Overall
+125,Maryland,6.9,Total,Overall
+126,Massachusetts,3.2,Total,Overall
+127,Michigan,6.4,Total,Overall
+128,Minnesota,5.1,Total,Overall
+129,Mississippi,14.499999999999998,Total,Overall
+130,Missouri,11.200000000000001,Total,Overall
+131,Montana,10.0,Total,Overall
+132,Nebraska,10.0,Total,Overall
+133,Nevada,13.200000000000001,Total,Overall
+134,New Hampshire,6.3,Total,Overall
+135,New Jersey,8.6,Total,Overall
+136,New Mexico,11.200000000000001,Total,Overall
+137,New York,6.2,Total,Overall
+138,North Carolina,12.9,Total,Overall
+139,North Dakota,9.0,Total,Overall
+140,Ohio,7.7,Total,Overall
+141,Oklahoma,16.1,Total,Overall
+142,Oregon,8.6,Total,Overall
+143,Pennsylvania,6.800000000000001,Total,Overall
+144,Rhode Island,4.8,Total,Overall
+145,South Carolina,12.7,Total,Overall
+146,South Dakota,11.1,Total,Overall
+147,Tennessee,12.1,Total,Overall
+148,Texas,20.0,Total,Overall
+149,Utah,10.0,Total,Overall
+150,Vermont,4.8,Total,Overall
+151,Virginia,10.100000000000001,Total,Overall
+152,Washington,7.6,Total,Overall
+153,West Virginia,7.6,Total,Overall
+154,Wisconsin,6.6000000000000005,Total,Overall
+155,Wyoming,12.7,Total,Overall

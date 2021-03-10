@@ -1,0 +1,562 @@
+,NAME,percent_uninsured,time,Location,expanded_medicaid,highlight1,highlight2,highlight3,highlight4,highlight5,highlight6
+0,Alabama,15.299999999999999,2008,Alabama,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+1,Alabama,15.8,2009,Alabama,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+2,Alabama,16.9,2010,Alabama,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+3,Alabama,16.6,2011,Alabama,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+4,Alabama,15.8,2012,Alabama,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+5,Alabama,15.9,2013,Alabama,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+6,Alabama,14.2,2014,Alabama,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+7,Alabama,11.9,2015,Alabama,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+8,Alabama,10.8,2016,Alabama,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+9,Alabama,11.0,2017,Alabama,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+10,Alabama,11.9,2018,Alabama,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+11,Alaska,20.5,2008,Alaska,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+12,Alaska,22.7,2009,Alaska,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+13,Alaska,21.4,2010,Alaska,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+14,Alaska,21.7,2011,Alaska,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+15,Alaska,22.3,2012,Alaska,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+16,Alaska,20.8,2013,Alaska,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+17,Alaska,19.0,2014,Alaska,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+18,Alaska,16.3,2015,Alaska,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+19,Alaska,15.5,2016,Alaska,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+20,Alaska,14.800000000000002,2017,Alaska,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+21,Alaska,13.900000000000002,2018,Alaska,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+22,Arizona,20.5,2008,Arizona,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+23,Arizona,19.9,2009,Arizona,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+24,Arizona,19.3,2010,Arizona,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+25,Arizona,19.6,2011,Arizona,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+26,Arizona,20.4,2012,Arizona,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+27,Arizona,20.0,2013,Arizona,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+28,Arizona,16.1,2014,Arizona,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+29,Arizona,12.8,2015,Arizona,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+30,Arizona,11.9,2016,Arizona,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+31,Arizona,12.1,2017,Arizona,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+32,Arizona,12.8,2018,Arizona,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+33,Arkansas,19.8,2008,Arkansas,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+34,Arkansas,19.6,2009,Arkansas,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+35,Arkansas,20.6,2010,Arkansas,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+36,Arkansas,20.1,2011,Arkansas,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+37,Arkansas,19.4,2012,Arkansas,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+38,Arkansas,18.8,2013,Arkansas,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+39,Arkansas,13.8,2014,Arkansas,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+40,Arkansas,11.1,2015,Arkansas,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+41,Arkansas,9.4,2016,Arkansas,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+42,Arkansas,9.3,2017,Arkansas,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+43,Arkansas,9.6,2018,Arkansas,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+44,California,19.2,2008,California,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+45,California,20.1,2009,California,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+46,California,20.7,2010,California,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+47,California,20.2,2011,California,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+48,California,20.0,2012,California,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+49,California,19.4,2013,California,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+50,California,14.099999999999998,2014,California,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+51,California,9.7,2015,California,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+52,California,8.4,2016,California,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+53,California,8.2,2017,California,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+54,California,8.3,2018,California,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+55,Colorado,18.1,2008,Colorado,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+56,Colorado,17.2,2009,Colorado,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+57,Colorado,17.7,2010,Colorado,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+58,Colorado,17.0,2011,Colorado,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+59,Colorado,16.7,2012,Colorado,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+60,Colorado,16.0,2013,Colorado,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+61,Colorado,11.7,2014,Colorado,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+62,Colorado,9.2,2015,Colorado,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+63,Colorado,8.6,2016,Colorado,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+64,Colorado,8.7,2017,Colorado,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+65,Colorado,8.8,2018,Colorado,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+66,Connecticut,10.1,2008,Connecticut,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+67,Connecticut,10.2,2009,Connecticut,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+68,Connecticut,10.4,2010,Connecticut,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+69,Connecticut,10.1,2011,Connecticut,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+70,Connecticut,10.5,2012,Connecticut,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+71,Connecticut,10.9,2013,Connecticut,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+72,Connecticut,8.0,2014,Connecticut,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+73,Connecticut,6.9,2015,Connecticut,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+74,Connecticut,5.8,2016,Connecticut,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+75,Connecticut,6.3,2017,Connecticut,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+76,Connecticut,6.2,2018,Connecticut,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+77,Delaware,11.7,2008,Delaware,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+78,Delaware,12.0,2009,Delaware,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+79,Delaware,11.6,2010,Delaware,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+80,Delaware,11.2,2011,Delaware,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+81,Delaware,10.3,2012,Delaware,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+82,Delaware,10.9,2013,Delaware,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+83,Delaware,9.3,2014,Delaware,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+84,Delaware,6.9,2015,Delaware,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+85,Delaware,6.7,2016,Delaware,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+86,Delaware,6.1,2017,Delaware,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+87,Delaware,6.800000000000001,2018,Delaware,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+88,District of Columbia,8.6,2008,District of Columbia,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+89,District of Columbia,8.2,2009,District of Columbia,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+90,District of Columbia,9.0,2010,District of Columbia,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+91,District of Columbia,8.3,2011,District of Columbia,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+92,District of Columbia,7.000000000000001,2012,District of Columbia,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+93,District of Columbia,7.5,2013,District of Columbia,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+94,District of Columbia,5.9,2014,District of Columbia,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+95,District of Columbia,4.3,2015,District of Columbia,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+96,District of Columbia,4.1,2016,District of Columbia,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+97,District of Columbia,4.3,2017,District of Columbia,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+98,District of Columbia,3.6000000000000005,2018,District of Columbia,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+99,Florida,24.2,2008,Florida,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+100,Florida,24.9,2009,Florida,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+101,Florida,25.3,2010,Florida,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+102,Florida,24.8,2011,Florida,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+103,Florida,24.1,2012,Florida,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+104,Florida,24.3,2013,Florida,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+105,Florida,20.2,2014,Florida,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+106,Florida,16.3,2015,Florida,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+107,Florida,15.4,2016,Florida,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+108,Florida,16.0,2017,Florida,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+109,Florida,16.1,2018,Florida,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+110,Georgia,20.1,2008,Georgia,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+111,Georgia,21.2,2009,Georgia,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+112,Georgia,21.9,2010,Georgia,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+113,Georgia,21.7,2011,Georgia,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+114,Georgia,20.7,2012,Georgia,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+115,Georgia,21.2,2013,Georgia,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+116,Georgia,18.0,2014,Georgia,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+117,Georgia,15.8,2015,Georgia,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+118,Georgia,14.899999999999999,2016,Georgia,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+119,Georgia,15.5,2017,Georgia,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+120,Georgia,15.9,2018,Georgia,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+121,Hawaii,7.7,2008,Hawaii,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+122,Hawaii,8.2,2009,Hawaii,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+123,Hawaii,8.9,2010,Hawaii,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+124,Hawaii,8.1,2011,Hawaii,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+125,Hawaii,7.8,2012,Hawaii,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+126,Hawaii,7.6,2013,Hawaii,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+127,Hawaii,6.0,2014,Hawaii,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+128,Hawaii,4.8,2015,Hawaii,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+129,Hawaii,4.2,2016,Hawaii,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+130,Hawaii,4.6,2017,Hawaii,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+131,Hawaii,4.7,2018,Hawaii,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+132,Idaho,19.1,2008,Idaho,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+133,Idaho,19.3,2009,Idaho,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+134,Idaho,20.3,2010,Idaho,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+135,Idaho,18.9,2011,Idaho,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+136,Idaho,18.5,2012,Idaho,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+137,Idaho,18.8,2013,Idaho,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+138,Idaho,15.7,2014,Idaho,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+139,Idaho,12.8,2015,Idaho,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+140,Idaho,11.8,2016,Idaho,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+141,Idaho,11.8,2017,Idaho,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+142,Idaho,13.100000000000001,2018,Idaho,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+143,Illinois,13.900000000000002,2008,Illinois,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+144,Illinois,15.0,2009,Illinois,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+145,Illinois,15.6,2010,Illinois,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+146,Illinois,14.800000000000002,2011,Illinois,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+147,Illinois,14.6,2012,Illinois,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+148,Illinois,14.6,2013,Illinois,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+149,Illinois,11.2,2014,Illinois,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+150,Illinois,8.2,2015,Illinois,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+151,Illinois,7.5,2016,Illinois,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+152,Illinois,7.9,2017,Illinois,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+153,Illinois,8.1,2018,Illinois,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+154,Indiana,15.1,2008,Indiana,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+155,Indiana,16.2,2009,Indiana,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+156,Indiana,17.0,2010,Indiana,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+157,Indiana,16.6,2011,Indiana,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+158,Indiana,16.6,2012,Indiana,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+159,Indiana,16.1,2013,Indiana,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+160,Indiana,14.000000000000002,2014,Indiana,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+161,Indiana,11.3,2015,Indiana,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+162,Indiana,9.5,2016,Indiana,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+163,Indiana,9.6,2017,Indiana,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+164,Indiana,9.7,2018,Indiana,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+165,Iowa,10.0,2008,Iowa,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+166,Iowa,10.0,2009,Iowa,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+167,Iowa,10.7,2010,Iowa,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+168,Iowa,10.4,2011,Iowa,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+169,Iowa,9.9,2012,Iowa,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+170,Iowa,9.6,2013,Iowa,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+171,Iowa,7.3,2014,Iowa,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+172,Iowa,5.9,2015,Iowa,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+173,Iowa,5.0,2016,Iowa,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+174,Iowa,5.5,2017,Iowa,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+175,Iowa,5.6,2018,Iowa,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+176,Kansas,12.8,2008,Kansas,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+177,Kansas,14.6,2009,Kansas,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+178,Kansas,15.8,2010,Kansas,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+179,Kansas,14.400000000000002,2011,Kansas,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+180,Kansas,14.400000000000002,2012,Kansas,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+181,Kansas,14.099999999999998,2013,Kansas,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+182,Kansas,11.7,2014,Kansas,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+183,Kansas,10.5,2015,Kansas,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+184,Kansas,9.9,2016,Kansas,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+185,Kansas,10.1,2017,Kansas,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+186,Kansas,10.1,2018,Kansas,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+187,Kentucky,15.0,2008,Kentucky,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+188,Kentucky,16.5,2009,Kentucky,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+189,Kentucky,17.5,2010,Kentucky,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+190,Kentucky,16.9,2011,Kentucky,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+191,Kentucky,16.2,2012,Kentucky,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+192,Kentucky,16.8,2013,Kentucky,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+193,Kentucky,9.9,2014,Kentucky,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+194,Kentucky,7.1,2015,Kentucky,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+195,Kentucky,6.0,2016,Kentucky,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+196,Kentucky,6.4,2017,Kentucky,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+197,Kentucky,6.7,2018,Kentucky,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+198,Louisiana,19.5,2008,Louisiana,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+199,Louisiana,20.0,2009,Louisiana,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+200,Louisiana,20.5,2010,Louisiana,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+201,Louisiana,20.1,2011,Louisiana,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+202,Louisiana,19.4,2012,Louisiana,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+203,Louisiana,19.1,2013,Louisiana,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+204,Louisiana,16.9,2014,Louisiana,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+205,Louisiana,13.8,2015,Louisiana,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+206,Louisiana,11.8,2016,Louisiana,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+207,Louisiana,9.6,2017,Louisiana,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+208,Louisiana,9.3,2018,Louisiana,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+209,Maine,12.1,2008,Maine,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+210,Maine,12.5,2009,Maine,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+211,Maine,12.2,2010,Maine,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+212,Maine,12.9,2011,Maine,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+213,Maine,12.4,2012,Maine,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+214,Maine,13.5,2013,Maine,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+215,Maine,12.4,2014,Maine,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+216,Maine,10.3,2015,Maine,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+217,Maine,10.1,2016,Maine,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+218,Maine,10.2,2017,Maine,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+219,Maine,10.2,2018,Maine,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+220,Maryland,12.3,2008,Maryland,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+221,Maryland,12.9,2009,Maryland,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+222,Maryland,12.7,2010,Maryland,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+223,Maryland,12.0,2011,Maryland,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+224,Maryland,11.8,2012,Maryland,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+225,Maryland,11.7,2013,Maryland,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+226,Maryland,8.9,2014,Maryland,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+227,Maryland,7.400000000000001,2015,Maryland,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+228,Maryland,7.000000000000001,2016,Maryland,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+229,Maryland,7.000000000000001,2017,Maryland,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+230,Maryland,6.9,2018,Maryland,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+231,Massachusetts,4.4,2008,Massachusetts,Yes,noHighlight,noHighlight,Highlight,noHighlight,Highlight,noHighlight
+232,Massachusetts,4.9,2009,Massachusetts,Yes,noHighlight,noHighlight,Highlight,noHighlight,Highlight,noHighlight
+233,Massachusetts,5.2,2010,Massachusetts,Yes,noHighlight,noHighlight,Highlight,noHighlight,Highlight,noHighlight
+234,Massachusetts,4.9,2011,Massachusetts,Yes,noHighlight,noHighlight,Highlight,noHighlight,Highlight,noHighlight
+235,Massachusetts,4.5,2012,Massachusetts,Yes,noHighlight,noHighlight,Highlight,noHighlight,Highlight,noHighlight
+236,Massachusetts,4.3,2013,Massachusetts,Yes,noHighlight,noHighlight,Highlight,noHighlight,Highlight,noHighlight
+237,Massachusetts,3.8,2014,Massachusetts,Yes,noHighlight,noHighlight,Highlight,noHighlight,Highlight,noHighlight
+238,Massachusetts,3.2,2015,Massachusetts,Yes,noHighlight,noHighlight,Highlight,noHighlight,Highlight,noHighlight
+239,Massachusetts,3.0,2016,Massachusetts,Yes,noHighlight,noHighlight,Highlight,noHighlight,Highlight,noHighlight
+240,Massachusetts,3.3000000000000003,2017,Massachusetts,Yes,noHighlight,noHighlight,Highlight,noHighlight,Highlight,noHighlight
+241,Massachusetts,3.3000000000000003,2018,Massachusetts,Yes,noHighlight,noHighlight,Highlight,noHighlight,Highlight,noHighlight
+242,Michigan,12.4,2008,Michigan,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+243,Michigan,13.900000000000002,2009,Michigan,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+244,Michigan,14.3,2010,Michigan,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+245,Michigan,13.600000000000001,2011,Michigan,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+246,Michigan,13.4,2012,Michigan,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+247,Michigan,12.9,2013,Michigan,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+248,Michigan,10.1,2014,Michigan,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+249,Michigan,7.200000000000001,2015,Michigan,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+250,Michigan,6.4,2016,Michigan,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+251,Michigan,6.1,2017,Michigan,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+252,Michigan,6.5,2018,Michigan,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+253,Minnesota,9.5,2008,Minnesota,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+254,Minnesota,10.2,2009,Minnesota,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+255,Minnesota,10.3,2010,Minnesota,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+256,Minnesota,10.2,2011,Minnesota,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+257,Minnesota,9.2,2012,Minnesota,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+258,Minnesota,9.5,2013,Minnesota,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+259,Minnesota,6.7,2014,Minnesota,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+260,Minnesota,5.2,2015,Minnesota,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+261,Minnesota,4.8,2016,Minnesota,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+262,Minnesota,5.1,2017,Minnesota,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+263,Minnesota,5.1,2018,Minnesota,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+264,Mississippi,19.3,2008,Mississippi,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+265,Mississippi,20.5,2009,Mississippi,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+266,Mississippi,21.0,2010,Mississippi,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+267,Mississippi,20.6,2011,Mississippi,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+268,Mississippi,19.7,2012,Mississippi,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+269,Mississippi,20.0,2013,Mississippi,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+270,Mississippi,17.1,2014,Mississippi,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+271,Mississippi,14.800000000000002,2015,Mississippi,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+272,Mississippi,14.000000000000002,2016,Mississippi,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+273,Mississippi,14.499999999999998,2017,Mississippi,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+274,Mississippi,14.400000000000002,2018,Mississippi,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+275,Missouri,14.3,2008,Missouri,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+276,Missouri,15.2,2009,Missouri,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+277,Missouri,15.299999999999999,2010,Missouri,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+278,Missouri,16.0,2011,Missouri,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+279,Missouri,15.8,2012,Missouri,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+280,Missouri,15.299999999999999,2013,Missouri,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+281,Missouri,13.699999999999998,2014,Missouri,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+282,Missouri,11.5,2015,Missouri,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+283,Missouri,10.6,2016,Missouri,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+284,Missouri,10.9,2017,Missouri,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+285,Missouri,11.4,2018,Missouri,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+286,Montana,20.4,2008,Montana,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+287,Montana,21.7,2009,Montana,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+288,Montana,20.7,2010,Montana,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+289,Montana,21.6,2011,Montana,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+290,Montana,21.6,2012,Montana,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+291,Montana,20.0,2013,Montana,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+292,Montana,16.8,2014,Montana,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+293,Montana,14.2,2015,Montana,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+294,Montana,10.0,2016,Montana,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+295,Montana,10.4,2017,Montana,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+296,Montana,10.2,2018,Montana,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+297,Nebraska,12.2,2008,Nebraska,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+298,Nebraska,13.3,2009,Nebraska,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+299,Nebraska,13.4,2010,Nebraska,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+300,Nebraska,13.3,2011,Nebraska,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+301,Nebraska,12.9,2012,Nebraska,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+302,Nebraska,12.9,2013,Nebraska,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+303,Nebraska,11.0,2014,Nebraska,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+304,Nebraska,9.4,2015,Nebraska,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+305,Nebraska,9.7,2016,Nebraska,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+306,Nebraska,9.6,2017,Nebraska,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+307,Nebraska,9.4,2018,Nebraska,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+308,Nevada,23.2,2008,Nevada,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+309,Nevada,24.5,2009,Nevada,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+310,Nevada,25.1,2010,Nevada,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+311,Nevada,23.8,2011,Nevada,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+312,Nevada,24.5,2012,Nevada,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+313,Nevada,23.3,2013,Nevada,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+314,Nevada,17.3,2014,Nevada,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+315,Nevada,14.099999999999998,2015,Nevada,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+316,Nevada,13.100000000000001,2016,Nevada,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+317,Nevada,13.100000000000001,2017,Nevada,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+318,Nevada,12.9,2018,Nevada,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+319,New Hampshire,12.1,2008,New Hampshire,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+320,New Hampshire,12.0,2009,New Hampshire,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+321,New Hampshire,13.0,2010,New Hampshire,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+322,New Hampshire,12.5,2011,New Hampshire,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+323,New Hampshire,12.6,2012,New Hampshire,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+324,New Hampshire,12.8,2013,New Hampshire,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+325,New Hampshire,11.0,2014,New Hampshire,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+326,New Hampshire,7.8,2015,New Hampshire,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+327,New Hampshire,7.200000000000001,2016,New Hampshire,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+328,New Hampshire,7.000000000000001,2017,New Hampshire,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+329,New Hampshire,7.1,2018,New Hampshire,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+330,New Jersey,13.699999999999998,2008,New Jersey,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+331,New Jersey,14.400000000000002,2009,New Jersey,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+332,New Jersey,15.0,2010,New Jersey,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+333,New Jersey,14.899999999999999,2011,New Jersey,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+334,New Jersey,14.6,2012,New Jersey,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+335,New Jersey,15.0,2013,New Jersey,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+336,New Jersey,12.6,2014,New Jersey,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+337,New Jersey,10.0,2015,New Jersey,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+338,New Jersey,9.2,2016,New Jersey,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+339,New Jersey,9.0,2017,New Jersey,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+340,New Jersey,8.7,2018,New Jersey,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+341,New Mexico,23.9,2008,New Mexico,Yes,noHighlight,Highlight,noHighlight,noHighlight,Highlight,noHighlight
+342,New Mexico,22.9,2009,New Mexico,Yes,noHighlight,Highlight,noHighlight,noHighlight,Highlight,noHighlight
+343,New Mexico,22.6,2010,New Mexico,Yes,noHighlight,Highlight,noHighlight,noHighlight,Highlight,noHighlight
+344,New Mexico,23.0,2011,New Mexico,Yes,noHighlight,Highlight,noHighlight,noHighlight,Highlight,noHighlight
+345,New Mexico,21.5,2012,New Mexico,Yes,noHighlight,Highlight,noHighlight,noHighlight,Highlight,noHighlight
+346,New Mexico,21.9,2013,New Mexico,Yes,noHighlight,Highlight,noHighlight,noHighlight,Highlight,noHighlight
+347,New Mexico,17.1,2014,New Mexico,Yes,noHighlight,Highlight,noHighlight,noHighlight,Highlight,noHighlight
+348,New Mexico,13.100000000000001,2015,New Mexico,Yes,noHighlight,Highlight,noHighlight,noHighlight,Highlight,noHighlight
+349,New Mexico,11.2,2016,New Mexico,Yes,noHighlight,Highlight,noHighlight,noHighlight,Highlight,noHighlight
+350,New Mexico,11.0,2017,New Mexico,Yes,noHighlight,Highlight,noHighlight,noHighlight,Highlight,noHighlight
+351,New Mexico,11.5,2018,New Mexico,Yes,noHighlight,Highlight,noHighlight,noHighlight,Highlight,noHighlight
+352,New York,13.100000000000001,2008,New York,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+353,New York,13.200000000000001,2009,New York,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+354,New York,13.699999999999998,2010,New York,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+355,New York,13.200000000000001,2011,New York,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+356,New York,12.6,2012,New York,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+357,New York,12.4,2013,New York,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+358,New York,10.1,2014,New York,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+359,New York,8.2,2015,New York,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+360,New York,7.1,2016,New York,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+361,New York,6.6000000000000005,2017,New York,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+362,New York,6.3,2018,New York,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+363,North Carolina,17.4,2008,North Carolina,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+364,North Carolina,18.0,2009,North Carolina,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+365,North Carolina,19.1,2010,North Carolina,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+366,North Carolina,18.7,2011,North Carolina,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+367,North Carolina,19.0,2012,North Carolina,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+368,North Carolina,18.1,2013,North Carolina,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+369,North Carolina,15.2,2014,North Carolina,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+370,North Carolina,13.0,2015,North Carolina,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+371,North Carolina,12.2,2016,North Carolina,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+372,North Carolina,12.6,2017,North Carolina,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+373,North Carolina,12.7,2018,North Carolina,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+374,North Dakota,11.6,2008,North Dakota,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+375,North Dakota,11.5,2009,North Dakota,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+376,North Dakota,11.4,2010,North Dakota,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+377,North Dakota,11.6,2011,North Dakota,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+378,North Dakota,12.0,2012,North Dakota,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+379,North Dakota,12.3,2013,North Dakota,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+380,North Dakota,9.3,2014,North Dakota,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+381,North Dakota,8.7,2015,North Dakota,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+382,North Dakota,7.6,2016,North Dakota,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+383,North Dakota,8.6,2017,North Dakota,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+384,North Dakota,8.1,2018,North Dakota,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+385,Ohio,13.100000000000001,2008,Ohio,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+386,Ohio,14.000000000000002,2009,Ohio,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+387,Ohio,14.3,2010,Ohio,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+388,Ohio,13.900000000000002,2011,Ohio,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+389,Ohio,13.5,2012,Ohio,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+390,Ohio,13.0,2013,Ohio,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+391,Ohio,9.9,2014,Ohio,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+392,Ohio,7.7,2015,Ohio,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+393,Ohio,6.7,2016,Ohio,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+394,Ohio,7.1,2017,Ohio,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+395,Ohio,7.7,2018,Ohio,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+396,Oklahoma,21.5,2008,Oklahoma,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+397,Oklahoma,21.4,2009,Oklahoma,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+398,Oklahoma,21.9,2010,Oklahoma,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+399,Oklahoma,21.8,2011,Oklahoma,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+400,Oklahoma,21.4,2012,Oklahoma,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+401,Oklahoma,20.6,2013,Oklahoma,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+402,Oklahoma,17.9,2014,Oklahoma,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+403,Oklahoma,16.1,2015,Oklahoma,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+404,Oklahoma,16.0,2016,Oklahoma,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+405,Oklahoma,16.5,2017,Oklahoma,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+406,Oklahoma,16.6,2018,Oklahoma,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+407,Oregon,18.0,2008,Oregon,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+408,Oregon,19.4,2009,Oregon,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+409,Oregon,19.7,2010,Oregon,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+410,Oregon,18.1,2011,Oregon,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+411,Oregon,17.4,2012,Oregon,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+412,Oregon,17.2,2013,Oregon,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+413,Oregon,11.6,2014,Oregon,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+414,Oregon,8.4,2015,Oregon,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+415,Oregon,7.400000000000001,2016,Oregon,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+416,Oregon,8.2,2017,Oregon,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+417,Oregon,8.4,2018,Oregon,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+418,Pennsylvania,10.6,2008,Pennsylvania,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+419,Pennsylvania,11.7,2009,Pennsylvania,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+420,Pennsylvania,12.1,2010,Pennsylvania,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+421,Pennsylvania,12.0,2011,Pennsylvania,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+422,Pennsylvania,11.7,2012,Pennsylvania,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+423,Pennsylvania,11.6,2013,Pennsylvania,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+424,Pennsylvania,10.2,2014,Pennsylvania,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+425,Pennsylvania,7.6,2015,Pennsylvania,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+426,Pennsylvania,6.800000000000001,2016,Pennsylvania,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+427,Pennsylvania,6.6000000000000005,2017,Pennsylvania,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+428,Pennsylvania,6.7,2018,Pennsylvania,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+429,Rhode Island,11.8,2008,Rhode Island,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+430,Rhode Island,13.3,2009,Rhode Island,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+431,Rhode Island,13.8,2010,Rhode Island,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+432,Rhode Island,12.8,2011,Rhode Island,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+433,Rhode Island,12.8,2012,Rhode Island,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+434,Rhode Island,13.900000000000002,2013,Rhode Island,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+435,Rhode Island,8.6,2014,Rhode Island,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+436,Rhode Island,6.7,2015,Rhode Island,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+437,Rhode Island,5.1,2016,Rhode Island,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+438,Rhode Island,5.4,2017,Rhode Island,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+439,Rhode Island,4.8,2018,Rhode Island,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+440,South Carolina,19.2,2008,South Carolina,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+441,South Carolina,19.4,2009,South Carolina,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+442,South Carolina,20.3,2010,South Carolina,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+443,South Carolina,19.4,2011,South Carolina,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+444,South Carolina,19.8,2012,South Carolina,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+445,South Carolina,18.6,2013,South Carolina,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+446,South Carolina,16.1,2014,South Carolina,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+447,South Carolina,13.0,2015,South Carolina,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+448,South Carolina,12.1,2016,South Carolina,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+449,South Carolina,13.100000000000001,2017,South Carolina,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+450,South Carolina,12.7,2018,South Carolina,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+451,South Dakota,12.7,2008,South Dakota,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+452,South Dakota,14.800000000000002,2009,South Dakota,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+453,South Dakota,13.900000000000002,2010,South Dakota,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+454,South Dakota,13.900000000000002,2011,South Dakota,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+455,South Dakota,13.600000000000001,2012,South Dakota,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+456,South Dakota,12.8,2013,South Dakota,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+457,South Dakota,11.6,2014,South Dakota,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+458,South Dakota,11.8,2015,South Dakota,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+459,South Dakota,10.4,2016,South Dakota,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+460,South Dakota,10.8,2017,South Dakota,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+461,South Dakota,11.2,2018,South Dakota,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+462,Tennessee,14.800000000000002,2008,Tennessee,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+463,Tennessee,16.3,2009,Tennessee,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+464,Tennessee,16.6,2010,Tennessee,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+465,Tennessee,17.0,2011,Tennessee,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+466,Tennessee,16.2,2012,Tennessee,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+467,Tennessee,16.2,2013,Tennessee,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+468,Tennessee,14.099999999999998,2014,Tennessee,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+469,Tennessee,12.0,2015,Tennessee,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+470,Tennessee,10.6,2016,Tennessee,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+471,Tennessee,11.3,2017,Tennessee,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+472,Tennessee,12.0,2018,Tennessee,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+473,Texas,25.7,2008,Texas,No,noHighlight,noHighlight,noHighlight,Highlight,noHighlight,Highlight
+474,Texas,26.3,2009,Texas,No,noHighlight,noHighlight,noHighlight,Highlight,noHighlight,Highlight
+475,Texas,26.3,2010,Texas,No,noHighlight,noHighlight,noHighlight,Highlight,noHighlight,Highlight
+476,Texas,25.7,2011,Texas,No,noHighlight,noHighlight,noHighlight,Highlight,noHighlight,Highlight
+477,Texas,25.2,2012,Texas,No,noHighlight,noHighlight,noHighlight,Highlight,noHighlight,Highlight
+478,Texas,24.8,2013,Texas,No,noHighlight,noHighlight,noHighlight,Highlight,noHighlight,Highlight
+479,Texas,21.4,2014,Texas,No,noHighlight,noHighlight,noHighlight,Highlight,noHighlight,Highlight
+480,Texas,19.2,2015,Texas,No,noHighlight,noHighlight,noHighlight,Highlight,noHighlight,Highlight
+481,Texas,18.6,2016,Texas,No,noHighlight,noHighlight,noHighlight,Highlight,noHighlight,Highlight
+482,Texas,19.4,2017,Texas,No,noHighlight,noHighlight,noHighlight,Highlight,noHighlight,Highlight
+483,Texas,19.9,2018,Texas,No,noHighlight,noHighlight,noHighlight,Highlight,noHighlight,Highlight
+484,Utah,16.3,2008,Utah,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+485,Utah,15.9,2009,Utah,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+486,Utah,16.7,2010,Utah,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+487,Utah,16.6,2011,Utah,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+488,Utah,15.7,2012,Utah,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+489,Utah,15.299999999999999,2013,Utah,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+490,Utah,13.8,2014,Utah,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+491,Utah,11.6,2015,Utah,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+492,Utah,9.7,2016,Utah,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+493,Utah,10.0,2017,Utah,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+494,Utah,10.4,2018,Utah,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+495,Vermont,10.3,2008,Vermont,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+496,Vermont,10.4,2009,Vermont,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+497,Vermont,9.7,2010,Vermont,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+498,Vermont,8.0,2011,Vermont,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+499,Vermont,7.9,2012,Vermont,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+500,Vermont,8.7,2013,Vermont,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+501,Vermont,6.1,2014,Vermont,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+502,Vermont,4.7,2015,Vermont,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+503,Vermont,4.7,2016,Vermont,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+504,Vermont,5.5,2017,Vermont,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+505,Vermont,4.9,2018,Vermont,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+506,Virginia,13.200000000000001,2008,Virginia,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+507,Virginia,13.600000000000001,2009,Virginia,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+508,Virginia,14.800000000000002,2010,Virginia,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+509,Virginia,14.3,2011,Virginia,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+510,Virginia,14.2,2012,Virginia,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+511,Virginia,14.000000000000002,2013,Virginia,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+512,Virginia,12.4,2014,Virginia,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+513,Virginia,10.4,2015,Virginia,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+514,Virginia,9.9,2016,Virginia,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+515,Virginia,10.2,2017,Virginia,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+516,Virginia,10.1,2018,Virginia,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+517,Washington,14.000000000000002,2008,Washington,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+518,Washington,15.0,2009,Washington,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+519,Washington,16.1,2010,Washington,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+520,Washington,16.0,2011,Washington,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+521,Washington,15.8,2012,Washington,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+522,Washington,15.9,2013,Washington,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+523,Washington,10.6,2014,Washington,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+524,Washington,7.6,2015,Washington,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+525,Washington,6.9,2016,Washington,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+526,Washington,7.1,2017,Washington,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+527,Washington,7.5,2018,Washington,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+528,West Virginia,17.4,2008,West Virginia,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+529,West Virginia,16.8,2009,West Virginia,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+530,West Virginia,17.4,2010,West Virginia,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+531,West Virginia,18.1,2011,West Virginia,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+532,West Virginia,17.6,2012,West Virginia,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+533,West Virginia,17.1,2013,West Virginia,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+534,West Virginia,10.6,2014,West Virginia,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+535,West Virginia,7.3,2015,West Virginia,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+536,West Virginia,6.5,2016,West Virginia,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+537,West Virginia,7.5,2017,West Virginia,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+538,West Virginia,7.8,2018,West Virginia,Yes,noHighlight,noHighlight,noHighlight,noHighlight,Highlight,noHighlight
+539,Wisconsin,10.0,2008,Wisconsin,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+540,Wisconsin,10.6,2009,Wisconsin,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+541,Wisconsin,10.8,2010,Wisconsin,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+542,Wisconsin,10.3,2011,Wisconsin,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+543,Wisconsin,10.4,2012,Wisconsin,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+544,Wisconsin,10.6,2013,Wisconsin,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+545,Wisconsin,8.6,2014,Wisconsin,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+546,Wisconsin,6.6000000000000005,2015,Wisconsin,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+547,Wisconsin,6.3,2016,Wisconsin,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+548,Wisconsin,6.4,2017,Wisconsin,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+549,Wisconsin,6.5,2018,Wisconsin,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+550,Wyoming,15.8,2008,Wyoming,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+551,Wyoming,17.3,2009,Wyoming,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+552,Wyoming,17.3,2010,Wyoming,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+553,Wyoming,17.3,2011,Wyoming,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+554,Wyoming,17.3,2012,Wyoming,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+555,Wyoming,15.8,2013,Wyoming,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+556,Wyoming,14.2,2014,Wyoming,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+557,Wyoming,13.4,2015,Wyoming,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+558,Wyoming,13.4,2016,Wyoming,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+559,Wyoming,14.2,2017,Wyoming,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight
+560,Wyoming,12.4,2018,Wyoming,No,noHighlight,noHighlight,noHighlight,noHighlight,noHighlight,Highlight

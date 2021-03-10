@@ -5,10 +5,210 @@ a {
 
 html,
 body {
-  background: #D6D6CE;
   font-family: Verdana, Geneva, sans-serif;
   height: 100%;
   margin: 0;
   padding: 0;
   width: 100%;
+  background-color: white;
+}
+
+p {
+  margin: 5px 0px;
+}
+
+#intro {
+  text-align: center;
+  width: 75%;
+  margin: auto;
+}
+
+#scrolly {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background-color: white;
+  padding: 1rem;
+}
+
+#scrolly > * {
+  -webkit-box-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+}
+
+article {
+  position: relative;
+  padding: 0 1rem;
+  max-width: 20rem;
+}
+
+figure {
+  position: -webkit-sticky;
+  position: sticky;
+  width: 100%;
+  margin: 0;
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+  background-color: white;
+  z-index: 0;
+  display: flex;
+  justify-content: center;
+}
+
+figure p {
+  text-align: center;
+  padding: 1rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -moz-transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  font-size: 8rem;
+  font-weight: 900;
+  color: #fff;
+}
+
+.step {
+  margin: 0 auto 2rem auto;
+  background-color: #3b3b3b;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.step:last-child {
+  margin-bottom: 0;
+}
+
+.step.is-active {
+  background-color: #08306B;
+}
+
+.step p {
+  text-align: center;
+  padding: 1rem;
+  font-size: 1.5rem;
+  vertical-align: middle;
+}
+
+
+
+.container {
+  margin-right: 30px;
+}
+
+
+#countyMap {
+  display: flex;
+  justify-content: center;
+}
+
+#demographics {
+  margin-top: 5rem;
+}
+
+.stateMenu {
+  display: flex;
+  justify-content: center;
+}
+
+#lineChart {
+  width: 750px;
+  height: 300px;
+  margin: auto;
+}
+
+.lineAlone {
+  margin: auto;
+}
+
+canvas {
+  margin: auto;
+}
+
+#openSection {
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+#lineChart2 {
+  display: flex;
+  justify-content: center;
+}
+
+.barCharts {
+  display: flex;
+}
+
+.totalText {
+  flex-basis: 25%;
+  font-size: 1.5rem;
+  text-align: center;
+  margin-top: 75px;
+}
+
+#mapDiv {
+  margin-top: 5rem;
+}
+
+#mapLegend {
+  display: flex;
+  justify-content: center;
+}
+
+#countyMap2 {
+  border: 2px solid #ddd;
+  overflow: hidden;
+  width: 1000px;
+  margin: auto;
+}
+
+.states {
+  fill: none;
+  stroke: #aaa;
+  stroke-linejoin: round;
+}
+
+.counties {
+  stroke: #ddd;
+}
+
+.mapTitle {
+  font-size: 1.5rem;
+  z-index: -1;
+  position: relative;
+  margin: 0px 70px;
+}
+
+.Highlight {
+  stroke: #08306B;
+}
+
+#sources {
+  padding-bottom: 20px;
+}
+
+.titleText {
+  font-size: 2rem;
+  margin: 150px 20px 15px 20px;
+}
+
+.subtitleText {
+  font-size: 1.5rem;
+  margin: 5px 20px;
+}
+
+.paragraphText {
+  font-size: 1rem;
+  margin: 5px 20px;
+}
+
+.smallText {
+  font-size: 0.75rem;
+  margin: 5px 20px;
 }

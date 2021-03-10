@@ -5,7 +5,112 @@
     <title>Scaffold</title>
   </head>
   <body>
+    <div id="intro">
+      <h1>Health (Un)Insurance in the US</h1>
+      <h3>by Ali Pelczar</h3>
+      <p class="subtitleText">
+        In 2018, about 90% of all Americans under 65 had some form of health 
+        insurance. The remainder, more than 28 million people, were uninsured. 
+        Dive deeper into how that 10% is distributed across
+        several dimensions, and how that number has changed over time.
+      </p>
+    </div>
     <div id="app"></div>
+
+    <section id="scrolly">
+      <article>
+        <div class="step" data-step="1">
+          <p>
+            All states have seen a decrease in previous years in the 
+            percent of residents uninsured. This primarily occurred
+            in 2014 and 2015 when much of the Affordable Care Act
+            came into effect.
+          </p>
+        </div>
+        <div class="step" data-step="2">
+          <p>
+            New Mexico saw the greatest absolute decrease during this
+            time. It more than halved its uninsured rate, from 24% in
+            2008 to 11% in 2018.
+          </p>
+        </div>
+        <div class="step" data-step="3">
+          <p>
+            Massachusetts implemented major health care reform in 2006
+            and entered this period with an uninsured rate much lower
+            than any other state. It has changed little since 2008.
+          </p>
+        </div>
+        <div class="step" data-step="4">
+          <p>
+            Meanwhile, Texas both started and ended this period
+            with the highest uninsured rate in the country.
+          </p>
+        </div>
+        <div class="step" data-step="5">
+          <p>
+            Under the Affordable Care Act, states had the option to
+            expand eligibility for Medicaid. By June 2019, these 34 
+            states had chosen to do so.
+          </p>
+        </div>
+        <div class="step" data-step="6">
+          <p>
+            The states that haven't expanded Medicaid are generally
+            being left behind in terms of the uninsured rate.
+          </p>
+        </div>
+      </article>
+
+      <figure>
+        <div id="lineChart"></div>
+      </figure>
+    </section>
+
+    <section id="openSection">
+      <p class="titleText">Now explore the data on your own</p>
+      <p class="subtitleText">Whether by state over time...</p>
+      <p class="smallText">Hover to highlight a state's line.</p>
+      <div id="lineChart2">
+      </div>
+
+      <div id="mapDiv">
+        <p class="subtitleText">...By county in 2018...</p>
+        <p class="smallText">Hover to see the county name, and click to zoom.</p>
+        <div id="mapLegend"></div>
+        <div id="countyMap2"></div>
+      </div>
+
+      <div id="demographics">
+        <p class="subtitleText">...Or in 2018 by demographic group.</p>
+      </div>
+      <p class="smallText">
+        *Income is in relation to the federal poverty line (FPL),
+        which in 2018 was 
+        <a href="https://aspe.hhs.gov/2018-poverty-guidelines">
+          $25,100 for a family of four.
+        </a>
+      </p>
+      <p class="smallText">Estimates not available for some subgroups.</p>
+    </section>
+
+    <section id="sources">
+      <p class="subtitleText">Sources</p>
+      <p class="smallText">
+        Data on the percent uninsured over time, by county, and by race
+        are from the Census Bureau's 
+        <a href="https://www.census.gov/programs-surveys/sahie.html">
+          Small Area Health Insurance Estimates.
+        </a>
+      </p>
+
+      <p class="smallText">
+        Percent uninsured by income level and by age, as well
+        as Medicaid expansion status by state, are from the
+        <a href="https://www.kff.org/statedata/">Kaiser Family Foundation State Health Facts.</a>
+      </p>
+    </section>
+
     <script src="bundle.js"></script>
   </body>
 </html>
