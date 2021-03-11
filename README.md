@@ -1,3 +1,9 @@
+## Dynamic Data Viz Project
+This is the home for the code to build my dynamic data visualization project.
+See it deployed at https://apelczar.github.io/uninsured_webapp/. 
+
+
+
 # Dynamic Project Scaffold
 
 In this folder I've provided an example project that enables you to use modern javascript tooling with as little effort as possible. This scaffold includes
