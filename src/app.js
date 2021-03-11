@@ -11,11 +11,8 @@ import {geoPath} from 'd3-geo';
 import {zoom, zoomIdentity, zoomTransform} from 'd3-zoom';
 import {feature, mesh} from 'topojson';
 import scrollama from 'scrollama';
-import Stickyfill from 'stickyfill';
-
-// this command imports the css file, if you remove it your css wont be applied!
+//import Stickyfill from 'stickyfill';
 import './main.css';
-//import { LEGEND_PROPERTIES } from 'vega-lite/build/src/legend';
 
 
 csv('./data/linechart_df.csv')
@@ -26,7 +23,7 @@ csv('./data/linechart_df.csv')
 
 
 //Scrolling
-var scroller = scrollama()
+var scroller = scrollama();
 
 var main = select("main");
 var scrolly = select("#scrolly");
@@ -62,9 +59,9 @@ function handleStepEnter(response) {
 
   // update graphic based on step
   //vegaEmbed("#lineChart", `data/linechart${response.index + 1}.json`, {actions: false});
-  let chartLines = selectAll(".noHighlight, .Highlight")
-  chartLines.attr("class", null)
-  chartLines.attr("class", function (d) {return d[0][`highlight${response.index + 1}`]})
+  let chartLines = selectAll(".noHighlight, .Highlight");
+  chartLines.attr("class", null);
+  chartLines.attr("class", function (d) {return d[0][`highlight${response.index + 1}`]});
 }
 
 function setupStickyfill() {
@@ -107,11 +104,7 @@ csv('./data/linechart_df.csv')
   });
 
 
-//Map - simple vega-created map
-//vegaEmbed('#countyMap', countyMap, {actions: false});
-
-
-//Map - via d3 to enable zooming
+//Map
 //Legend
 legend({
   color: scaleQuantize([0, 35], schemeBlues[7]),
@@ -127,12 +120,12 @@ Promise.all([
     uninsuredDataUse.set(d.GEOID, d.percent_uninsured);
     countyNames.set(d.GEOID, d.NAME);})
 ]).then((results) => {
-  const [result1, result2, uninsuredDataUse, countyNames] = results;
+  const [result1, result2] = results;
   createMap(results);
 });
 
 function createMap(us) {
-  const uninsuredData = us[1];
+  //const uninsuredData = us[1];
   const mapData = us[0];
 
   const mapWidth = 975;

@@ -11,9 +11,11 @@ body {
   padding: 0;
   width: 100%;
   background-color: white;
-  border-top: 15px solid #08306B;
 }
 
+body {
+  border-top: 25px solid #08306B;
+}
 
 p {
   margin: 5px 0px;

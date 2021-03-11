@@ -221,10 +221,6 @@ export function barChart(data) {
     .append("g")
     .attr('transform', `translate(${barMargin.left}, ${barMargin.top})`);
 
-  // var x = scaleBand()
-  //   .range([0, barWidth])
-  //   .domain(useData.map(function(d) {return d.detail}));
-
   const raceData = useData.filter(x => x.category === "Race");
   var raceScale = scaleBand()
     .range([0, barWidth])
@@ -239,7 +235,7 @@ export function barChart(data) {
   var ageScale = scaleBand()
     .range([0, barWidth])
     .domain(ageData.map(function(d) {return d.detail}));
-  const scaleCats = {"Race": raceScale, "Income": incomeScale, "Age": ageScale}
+  const scaleCats = {"Race": raceScale, "Income": incomeScale, "Age": ageScale};
   
   const yMax = max(data, function(d) {return Number(d.percent_uninsured)});
   var y = scaleLinear()
@@ -247,11 +243,11 @@ export function barChart(data) {
     .domain([0, Number(yMax) + 2.8]);
   
   svg.append("text").attr("x", width/3).attr("y", height - 20)
-    .text("Race").attr("text-anchor", "middle")
+    .text("Race").attr("text-anchor", "middle");
   svg.append("text").attr("x", width + width/3).attr("y", height - 20)
-    .text("Income*").attr("text-anchor", "middle")
+    .text("Income*").attr("text-anchor", "middle");
   svg.append("text").attr("x", width*2 + width/3).attr("y", height - 20)
-    .text("Age").attr("text-anchor", "middle")
+    .text("Age").attr("text-anchor", "middle");
   svg.append("g").attr("transform", `translate(-30, ${barHeight / 2})`)
     .append("text")
     .text("Uninsured Rate (%)")
@@ -267,7 +263,6 @@ export function barChart(data) {
     const t = transition().duration(300);
     let dataTotals = data.filter(x => x.Location === stateShow && x.detail === "Total");
     let useData = data.filter(x => x.Location === stateShow && x.detail != "Total");
-    //console.log(useData);
     const groups = useData.reduce((acc, row) => {
       acc[row.category] = (acc[row.category] || []).concat(row);
       return acc;
@@ -349,12 +344,7 @@ export function legend({
   let tickAdjust = g => g.selectAll(".tick line").attr("y1", marginTop + marginBottom - height);
   let x;
 
-    const thresholds
-        = color.thresholds ? color.thresholds() // scaleQuantize
-        : color.quantiles ? color.quantiles() // scaleQuantile
-        : color.domain(); // scaleThreshold
-
-
+    const thresholds = color.thresholds();
     const thresholdFormat
         = tickFormat === undefined ? d => d
         : typeof tickFormat === "string" ? format(tickFormat)
@@ -396,5 +386,5 @@ export function legend({
         .attr("class", "title")
         .text(title));
 
-  return svg.node();
+  //return svg.node();
 }
