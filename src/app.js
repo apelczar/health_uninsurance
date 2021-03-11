@@ -2,8 +2,8 @@
 // (I like to use use screaming snake case for imported json)
 // import MY_DATA from './app/data/example.json'
 
-import {lineChart, lineChart2, barChart, createLegend, legend} from './utils';
-import {select, selectAll, pointer} from 'd3-selection';
+import {lineChart, lineChart2, barChart, legend} from './utils';
+import {select, selectAll} from 'd3-selection';
 import {csv, json} from 'd3-fetch';
 import {scaleQuantize} from 'd3-scale';
 import {schemeBlues} from 'd3-scale-chromatic';
@@ -113,7 +113,6 @@ csv('./data/linechart_df.csv')
 
 //Map - via d3 to enable zooming
 //Legend
-//createLegend();
 legend({
   color: scaleQuantize([0, 35], schemeBlues[7]),
   title: "Uninsured rate (%)"

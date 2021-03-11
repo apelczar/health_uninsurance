@@ -11,7 +11,9 @@ body {
   padding: 0;
   width: 100%;
   background-color: white;
+  border-top: 15px solid #08306B;
 }
+
 
 p {
   margin: 5px 0px;
@@ -58,24 +60,10 @@ figure {
   justify-content: center;
 }
 
-figure p {
-  text-align: center;
-  padding: 1rem;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -moz-transform: translate(-50%, -50%);
-  -webkit-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  font-size: 8rem;
-  font-weight: 900;
-  color: #fff;
-}
-
 .step {
   margin: 0 auto 2rem auto;
   background-color: #3b3b3b;
-  color: #fff;
+  color: white;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -123,16 +111,9 @@ figure p {
   margin: auto;
 }
 
-.lineAlone {
-  margin: auto;
-}
-
-canvas {
-  margin: auto;
-}
 
 #openSection {
-  margin-top: 5rem;
+  margin-top: 3rem;
   margin-bottom: 5rem;
 }
 
@@ -141,16 +122,10 @@ canvas {
   justify-content: center;
 }
 
-.barCharts {
-  display: flex;
+.Highlight {
+  stroke: #08306B;
 }
 
-.totalText {
-  flex-basis: 25%;
-  font-size: 1.5rem;
-  text-align: center;
-  margin-top: 75px;
-}
 
 #mapDiv {
   margin-top: 5rem;
@@ -178,24 +153,26 @@ canvas {
   stroke: #ddd;
 }
 
-.mapTitle {
-  font-size: 1.5rem;
-  z-index: -1;
-  position: relative;
-  margin: 0px 70px;
+.barCharts {
+  display: flex;
 }
 
-.Highlight {
-  stroke: #08306B;
+.totalText {
+  flex-basis: 25%;
+  font-size: 1.5rem;
+  text-align: center;
+  margin-top: 75px;
 }
+
 
 #sources {
   padding-bottom: 20px;
+  border-bottom: 25px solid #08306B;
 }
 
 .titleText {
   font-size: 2rem;
-  margin: 150px 20px 15px 20px;
+  margin: 30px 20px 15px 20px;
 }
 
 .subtitleText {

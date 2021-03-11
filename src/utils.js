@@ -47,7 +47,7 @@ export function lineChart(data) {
     .domain([0, yMax + 0.02]).nice()
     .range([lineHeight, 0 ]);
   svgLine.append("g")
-    .call(axisLeft(y));
+    .call(axisLeft(y).ticks(5));
 
   const lineFunc = line()
     .x(d => x(xAcc(d)))
@@ -64,10 +64,11 @@ export function lineChart(data) {
     .attr("d", d => lineFunc(d))
     .attr("class", function (d) {return d[0].highlight1})
 
-  svgLine.append("g").attr("transform", `translate(-30, ${3*lineHeight/4})`)
+  svgLine.append("g").attr("transform", `translate(-30, ${lineHeight/2})`)
     .append("text")
-    .text("Percent Uninsured")
+    .text("Uninsured Rate (%)")
     .attr("transform", "rotate(-90)")
+    .attr("text-anchor", "middle");
 
 }
 
@@ -109,7 +110,7 @@ export function lineChart2(data) {
     .domain([0, yMax + 0.02]).nice()
     .range([lineHeight, 0 ]);
   svgLine2.append("g")
-    .call(axisLeft(y));
+    .call(axisLeft(y).ticks(5));
 
   const lineFunc = line()
     .x(d => x(xAcc(d)))
@@ -119,19 +120,17 @@ export function lineChart2(data) {
     .attr("fill", "none")
     .attr("stroke", "#BBBBBB")
     .attr("stroke-width", "1.5px")
-    .attr("stroke-linejoin", "round")
-    .attr("stroke-linecap", "round")
     //.attr("class", "timeChart")
     .selectAll("path")
     .data(lineData)
     .join("path")
-    .style("mix-blend-mode", "multiply")
     .attr("d", d => lineFunc(d))
 
-  svgLine2.append("g").attr("transform", `translate(-30, ${3*lineHeight/4})`)
+  svgLine2.append("g").attr("transform", `translate(-30, ${lineHeight/2})`)
     .append("text")
-    .text("Percent Uninsured")
+    .text("Uninsured Rate (%)")
     .attr("transform", "rotate(-90)")
+    .attr("text-anchor", "middle");
 
   svgLine2.call(hover, path)
 
@@ -172,7 +171,7 @@ export function lineChart2(data) {
     }
   
     function left() {
-      path.style("mix-blend-mode", "multiply").attr("stroke", null);
+      path.attr("stroke", null);
       dot.attr("display", "none");
     }
   }
@@ -253,10 +252,11 @@ export function barChart(data) {
     .text("Income*").attr("text-anchor", "middle")
   svg.append("text").attr("x", width*2 + width/3).attr("y", height - 20)
     .text("Age").attr("text-anchor", "middle")
-  svg.append("g").attr("transform", `translate(-30, ${height / 2})`)
+  svg.append("g").attr("transform", `translate(-30, ${barHeight / 2})`)
     .append("text")
-    .text("Percent Uninsured")
+    .text("Uninsured Rate (%)")
     .attr("transform", "rotate(-90)")
+    .attr("text-anchor", "middle");
 
   //Total text box
   const textBox = select(".barCharts")
@@ -322,55 +322,6 @@ export function barChart(data) {
 }
 
 
-export function createLegend() {
-  const legendHeight = 40;
-  const barHeight = 20;
-  const legendWidth = 800;
-  const legendMargin = ({top: 20, right: 40, bottom: 30, left: 40});
-
-  const svgLegend = select("#mapLegend")
-    .append("svg")
-    .attr("width", legendWidth + legendMargin.right + legendMargin.left)
-    .attr("height", legendHeight + legendMargin.top + legendMargin.bottom);
-  const defs = svgLegend.append("defs");
-
-  const colorScale = scaleQuantize([0, 35], schemeBlues[9]);
-
-  const axisScale = scaleLinear()
-    .domain(colorScale.domain())
-    .range([legendMargin.left, legendWidth - legendMargin.right]);
-  
-
-  // axisBottom = g => g
-  //   .attr("class", `x-axis`)
-  //   .attr("transform", `translate(0,${legendHeight - legendMargin.bottom})`)
-  //   .call(axisBottom(axisScale)
-  //     .ticks(legendWidth / 80)
-  //     .tickSize(-barHeight))
-
-  const linearGradient = defs.append("linearGradient")
-    .attr("id", "linear-gradient");
-
-  console.log(colorScale.ticks().map((t, i, n) => ({ offset: `${100*i/n.length}%`, color: colorScale(t) })));
-  linearGradient.selectAll("stop")
-    .data(colorScale.ticks().map((t, i, n) => ({ offset: `${100*i/n.length}%`, color: colorScale(t) })))
-    .enter().append("stop")
-    .attr("offset", d => d.offset)
-    .attr("stop-color", d => d.color);
-
-  svgLegend.append('g')
-    .attr("transform", `translate(0,${legendHeight - legendMargin.bottom - barHeight})`)
-    .append("rect")
-    .attr('transform', `translate(${legendMargin.left}, 0)`)
-    .attr("width", legendWidth - legendMargin.right - legendMargin.left)
-    .attr("height", legendHeight)
-    .style("fill", "url(#linear-gradient)");
-
-  // svgLegend.append('g')
-  //   .call(axisBottom);
-}
-
-
 export function legend({
   color,
   title,
@@ -402,8 +353,7 @@ export function legend({
         = color.thresholds ? color.thresholds() // scaleQuantize
         : color.quantiles ? color.quantiles() // scaleQuantile
         : color.domain(); // scaleThreshold
-    
-    console.log(thresholds);
+
 
     const thresholdFormat
         = tickFormat === undefined ? d => d

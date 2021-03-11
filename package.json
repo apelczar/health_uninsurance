@@ -34,9 +34,7 @@
     "scrollama": "^2.2.1",
     "stickyfill": "^1.1.1-strict",
     "topojson": "^3.0.2",
-    "vega": "^5.19.1",
-    "vega-embed": "^6.15.2",
-    "vega-lite": "^5.0.0"
+    "vega-embed": "^6.15.2"
   },
   "scripts": {
     "start": "webpack-dev-server",
