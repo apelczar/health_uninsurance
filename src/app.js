@@ -108,7 +108,7 @@ csv('./data/linechart_df.csv')
 //Legend
 legend({
   color: scaleQuantize([0, 35], schemeBlues[7]),
-  title: "Uninsured rate (%)"
+  title: "Uninsured Rate (%)"
 });
 
 const uninsuredDataUse = new Map();
@@ -137,7 +137,7 @@ function createMap(us) {
 
   const colorScale = scaleQuantize([0, 35], schemeBlues[7]);
   const zoomFunc = zoom()
-    .scaleExtent([1, 8])
+    .scaleExtent([1, 6])
     .extent([[0, 0], [mapWidth, mapHeight]])
     .on('zoom', (event) => {
       svgMap.attr('transform', event.transform);

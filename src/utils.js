@@ -5,15 +5,15 @@ import {axisBottom, axisLeft} from 'd3-axis';
 import {max, least, range} from 'd3-array';
 import {transition} from 'd3-transition';
 import {timeFormat} from 'd3-time-format';
-import {scaleQuantize} from 'd3-scale';
-import {schemeBlues} from 'd3-scale-chromatic';
+//import {scaleQuantize} from 'd3-scale';
+//import {schemeBlues} from 'd3-scale-chromatic';
 import {format} from 'd3-format';
 
 
 export function lineChart(data) {
-  var lineMargin = {top: 10, right: 30, bottom: 30, left: 60};
-  const lineWidth = 750 - lineMargin.left - lineMargin.right;
-  const lineHeight = 300 - lineMargin.top - lineMargin.bottom;
+  var lineMargin = {top: 10, right: 15, bottom: 30, left: 45};
+  const lineWidth = 700 - lineMargin.left - lineMargin.right;
+  const lineHeight = 350 - lineMargin.top - lineMargin.bottom;
 
   const lineGroups = data.reduce((acc, row) => {
     acc[row.NAME] = (acc[row.NAME] || []).concat(row);
@@ -73,9 +73,9 @@ export function lineChart(data) {
 }
 
 export function lineChart2(data) {
-  var lineMargin = {top: 10, right: 30, bottom: 30, left: 60};
-  const lineWidth = 750 - lineMargin.left - lineMargin.right;
-  const lineHeight = 300 - lineMargin.top - lineMargin.bottom;
+  var lineMargin = {top: 10, right: 10, bottom: 30, left: 45};
+  const lineWidth = 700 - lineMargin.left - lineMargin.right;
+  const lineHeight = 350 - lineMargin.top - lineMargin.bottom;
 
   const lineGroups = data.reduce((acc, row) => {
     acc[row.NAME] = (acc[row.NAME] || []).concat(row);
@@ -120,7 +120,6 @@ export function lineChart2(data) {
     .attr("fill", "none")
     .attr("stroke", "#BBBBBB")
     .attr("stroke-width", "1.5px")
-    //.attr("class", "timeChart")
     .selectAll("path")
     .data(lineData)
     .join("path")
@@ -186,8 +185,9 @@ export function barChart(data) {
 
   const allStates = [...new Set(data.map(item => item.Location))];
   let stateShow = "United States";
-  let useData = data.filter(x => x.Location === stateShow && x.detail != "Total");
-  let dataTotals = data.filter(x => x.Location === stateShow && x.detail === "Total");
+  let useData = data.filter(x => x.Location === stateShow && x.category != "Overall");
+  //let dataTotals = data.filter(x => x.Location === stateShow && x.detail === "Total");
+  //let medicaidStatus = data.filter(x => x.Location === stateShow && x.detail === "Medicaid");
 
   //set chart size
   const height = barHeight + barMargin.top + barMargin.bottom;
@@ -255,22 +255,39 @@ export function barChart(data) {
     .attr("text-anchor", "middle");
 
   //Total text box
-  const textBox = select(".barCharts")
-    .append("text")
+  const textDiv = select(".barCharts")
+    .append("div")
     .attr("class", "totalText");
+
+  const totalBox = select(".totalText")
+    .append("p")
+    .attr("id", "uninsuredTotal");
+
+  const medicaidBox = select(".totalText")
+    .append("p");
 
   function renderChart() {
     const t = transition().duration(300);
     let dataTotals = data.filter(x => x.Location === stateShow && x.detail === "Total");
-    let useData = data.filter(x => x.Location === stateShow && x.detail != "Total");
+    let useData = data.filter(x => x.Location === stateShow && x.category != "Overall");
+    let medicaidStatus = data.filter(x => x.Location === stateShow && x.detail === "Medicaid");
     const groups = useData.reduce((acc, row) => {
       acc[row.category] = (acc[row.category] || []).concat(row);
       return acc;
     }, {});
 
     //update text
-    let overallUninsured = Number(dataTotals[0].percent_uninsured).toFixed(1)
-    textBox.text(`In 2018, ${overallUninsured}% of ${stateShow} residents did not have health insurance.`);
+    let overallUninsured = Number(dataTotals[0].percent_uninsured).toFixed(1);
+    totalBox.text(`In 2018, ${overallUninsured}% of ${stateShow} residents did not have health insurance.`);
+
+    let medicaidText = "";
+    if (stateShow === "United States") {
+      medicaidText = "By June 2019, 34 states had expanded Medicaid.";
+    } else {
+      let expandIndicator = medicaidStatus[0].percent_uninsured > 0.5 ? "had" : "had not";
+      medicaidText = `${stateShow} ${expandIndicator} expanded Medicaid by June 2019.`;
+    }
+    medicaidBox.text(medicaidText);
 
     //update charts
     const container = svg.selectAll('g.container')
