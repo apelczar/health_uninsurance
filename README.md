@@ -1,64 +1,18 @@
+
 ## Dynamic Data Viz Project
-This is the home for the code to build my dynamic data visualization project.
-See it deployed at https://apelczar.github.io/uninsured_webapp/. 
+This is the home for the code to build my dynamic data visualization project. For best results, view this on a normal-sized laptop screen.See it deployed [here](https://apelczar.github.io/health_uninsurance/). 
 
+### Data sources
+My data came from two major sources.
 
+The percent uninsured over time, by county, and by race are from the Census Bureau's [Small Area Health Insurance Estimates](https://www.census.gov/programs-surveys/sahie.html).
 
-# Dynamic Project Scaffold
+The percent uninsured by income level and by age, and Medicaid expansion status by state, are from the [Kaiser Family Foundation State Health Facts](https://www.kff.org/statedata/).
 
-In this folder I've provided an example project that enables you to use modern javascript tooling with as little effort as possible. This scaffold includes
+### Code inspirations
+The scrolling part of the page uses the package [Scrollama](https://pudding.cool/process/introducing-scrollama/), and in particular leverages one of the [example code blocks](https://github.com/russellgoldenberg/scrollama/blob/master/docs/sticky-side/index.html).
 
-- a dev server that combines javascript modules and presents them to the browser. This comes with autoreload for free! It's great.
-- linters and autoformaters so you'll be able to check if your writing well styled javascript code. I have some pretty strong linting in here. You can disable them if you want, but you'll be judged.
+I modeled some sections after d3 examples created by Mike Bostock, including [interactive line charts](https://observablehq.com/@d3/multi-line-chart), [US county choropleth maps](https://observablehq.com/@d3/choropleth), and [click-to-zoom maps](https://observablehq.com/@d3/zoom-to-bounding-box). I used his function for [color legends](https://observablehq.com/@d3/color-legend) largely as-written.
 
-
-
-## Setup
-
-Make sure you have npm/node/yarn installed.
-
-```sh
-npm install
-# then
-npm run start
-
-# or if yarn-ing
-yarn
-# then
-yarn start
-```
-
-
-You will need to be explicit about your imports, eg
-```js
-import {functionFromModule} from 'target-module';
-```
-
-In this scaffold I have not installed any d3 packages. Some helpful ones (read the ones I usually end up using) are d3-selection, d3-scale, and d3-shape. To add one of these packages just do
-
-```sh
-npm install --save PACKAGENAME
-
-# or if yarning
-yarn add PACKAGENAME
-```
-
-
-## Usage
-
-Development:
-
-Step 1: Do all of your work in src. There is no step 2.
-
-Production:
-
-There are currently two easy ways to deploy this scaffold onto the internet.  
-
-### Netlify
-
-Netlify is an excellent company that tries to make the dev process as easy as possible. The way you deploy this scaffold there is get an account, start a new project, point it to the relevant github folder (that contains just this scaffold!), set the build command to be 'yarn build' and that's it.
-
-
-### GH Pages
-
-gh-pages is a wonderful resource for doing web-development, and allows you to have classy YOU_PERSONAL_DOMAIN/projectname type links. You can deploy this scaffold there by running 'yarn build' in your command line, commiting the modified file, and push to github. If you've configured your projects settings correct it should all just work out.
+### Other shout outs
+Thanks to Andrew McNutt for his videos on d3 basics, which were particularly useful for the side-by-side bar charts, and his general guidance. And thanks to the Minard group for their feedback and suggestions.

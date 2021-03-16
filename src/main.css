@@ -86,12 +86,9 @@ figure {
   vertical-align: middle;
 }
 
-
-
 .container {
   margin-right: 30px;
 }
-
 
 #countyMap {
   display: flex;
@@ -113,7 +110,6 @@ figure {
   margin: auto;
 }
 
-
 #openSection {
   margin-top: 3rem;
   margin-bottom: 5rem;
@@ -128,7 +124,6 @@ figure {
   stroke: #08306B;
   stroke-width: 2.25px;
 }
-
 
 #mapDiv {
   margin-top: 5rem;
@@ -158,19 +153,21 @@ figure {
 
 .barCharts {
   display: flex;
+  justify-content: center;
 }
 
 .totalText {
   flex-basis: 25%;
   font-size: 1.5rem;
   text-align: center;
-  margin-top: 75px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 #uninsuredTotal {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
-
 
 #sources {
   padding-bottom: 20px;
