@@ -1,6 +1,8 @@
 
 ## Dynamic Data Viz Project
-This is the home for the code to build my dynamic data visualization project. For best results, view this on a normal-sized laptop screen.See it deployed [here](https://apelczar.github.io/health_uninsurance/). 
+This is the home for the code to build my dynamic data visualization project. For best results, view this on a normal-sized laptop screen.
+
+See it deployed [here](https://apelczar.github.io/health_uninsurance/). 
 
 ### Data sources
 My data came from two major sources.
